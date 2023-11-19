@@ -1,0 +1,34 @@
+[
+        {
+            "id":1,
+            "name":"Movies"
+            
+        },
+        {
+            "id":2,
+            "name":"Premiere"
+        },
+        {
+            "id":3,
+            "name":"Comedy Shows"
+        },
+        {
+            "id":4,
+            "name":"Sports"
+        },
+        {
+            "id":5,
+            "name":"Online Streaming Events"
+        },
+        {
+            "id":6,
+            "name":"The Latest Plays"
+            
+        },
+        {
+            
+            "id":7,
+            "name":"Fun Activities"      
+        }
+       
+]
